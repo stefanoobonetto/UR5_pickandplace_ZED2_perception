@@ -1,4 +1,4 @@
-# Fundamentals of Robotics- Ur5 project
+# Fundamentals of Robotics- UR5 project
 
 ### Requirements
 
