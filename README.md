@@ -122,6 +122,10 @@ cd $HOME/ros_ws/src/progetto_robotica/vision/
 python3 vision.py
 ```
 
+### Additional Resources 
+You can find the video of the project at <a href="https://youtu.be/97bAUsRdwJI">this link</> and the presentation at <a href="https://drive.google.com/file/d/1BCvGXaAaUS0gR1l5gUNdJGJkIRGxAfPs/view?usp=sharing">this link</>
+
+
 ### Contributors
 
 | Name                 | Matricola | Github                               |
